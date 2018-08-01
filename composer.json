@@ -1,0 +1,22 @@
+{
+    "name": "kpion/pkg-tests",
+    "type": "library",
+    "description": "Just testing packagist.org",
+    "keywords": ["tests","testing"],
+    "homepage": "https://github.com/kpion/pkg-tests",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Konrad Papala",
+            "email": "konradpapala@gmail.com",
+            "homepage": "https://github.com/kpion",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+
+    }
+}
